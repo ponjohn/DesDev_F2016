@@ -1,0 +1,11 @@
+Progress Report 10/18/2016
+Review with client whether to make header and rule together or seperate
+* decision - make them seperate, by using .rule class.
+
+Review with client whether the upgrade website need to be mobile ready
+* because of the data & design - the website is web friendly
+
+Showed the client the progress of bio.html reformatting so far
+* progress so far is acceptable
+
+Will submit on github as bio_reformat.html
